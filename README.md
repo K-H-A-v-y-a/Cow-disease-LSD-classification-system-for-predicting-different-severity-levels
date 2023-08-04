@@ -29,7 +29,7 @@ To maximize the number of images in the datasets, data augmentation is used to i
 |  ResNet50   |      0.5030      |
 
 
-The best model for our project is MobileNetV2 with an overall Accuracy of # 91.82%
+The best model for our project is MobileNetV2 with an overall Accuracy of 91.82%
  
  
  
