@@ -1,0 +1,1 @@
+# Cow-disease-LSD-classification-system-for-predicting-different-severity-levels
