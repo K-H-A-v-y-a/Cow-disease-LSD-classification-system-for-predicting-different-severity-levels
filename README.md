@@ -2,8 +2,8 @@
 
 ## Different stages or severity levels of LSD
 There are three stage in LSD according to the number of lesions visible:
-1. Normal - No visible nodules
- <br />
+1. Normal - No visible nodules__
+   
 ![Normal](https://github.com/K-H-A-v-y-a/Cow-disease-LSD-classification-system-for-predicting-different-severity-levels/assets/90597406/c1536569-6047-474a-84a3-0c3417923f3c)
 
 3. Mildly infected - Less than or equal to 15 lesion nodules
