@@ -5,6 +5,15 @@ There are three stage in LSD according to the number of lesions visible:
 1. Normal - No visible nodules
 2. Mildly infected - Less than or equal to 15 lesion nodules
 3. Severely infected - More than 15 lesions nodules
+   
+Normal
+![Normal](https://github.com/K-H-A-v-y-a/Cow-disease-LSD-classification-system-for-predicting-different-severity-levels/assets/90597406/c1536569-6047-474a-84a3-0c3417923f3c)
+
+Mild
+![Mild](https://github.com/K-H-A-v-y-a/Cow-disease-LSD-classification-system-for-predicting-different-severity-levels/assets/90597406/0c3ee8c8-7304-4397-9ced-799d6eab017e)
+
+Severe
+![Severe](https://github.com/K-H-A-v-y-a/Cow-disease-LSD-classification-system-for-predicting-different-severity-levels/assets/90597406/153f1c55-f03b-427a-aa51-d25552b5e802)
 
 ## Dataset
 Since we didn't have a proper dataset available for our project we manually separated the available dataset with the help of veterinary Doctor, into Severe Lumpy Skin Disease, Mild Lumpy Skin Disease and Normal Skin.
